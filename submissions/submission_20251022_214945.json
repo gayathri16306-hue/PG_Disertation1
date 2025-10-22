@@ -1,0 +1,26 @@
+{
+  "submission_id": "submission_20251022_214945",
+  "timestamp": "2025-10-22T21:49:45.709457",
+  "files": [
+    "official-latex-template-of-revista-e-and-s-engineering-and-science-ufmt.pdf"
+  ],
+  "results": [
+    {
+      "filename": "official-latex-template-of-revista-e-and-s-engineering-and-science-ufmt.pdf",
+      "format": "E&S Format",
+      "confidence": "70%",
+      "ai_score": "1.15%",
+      "human_score": "98.85%",
+      "ai_confidence": "High"
+    }
+  ],
+  "similarity": [],
+  "ai_analysis": {
+    "official-latex-template-of-revista-e-and-s-engineering-and-science-ufmt.pdf": {
+      "ai_score": 1.15,
+      "human_score": 98.85,
+      "confidence": "High",
+      "method": "Heuristic + Pattern Analysis"
+    }
+  }
+}

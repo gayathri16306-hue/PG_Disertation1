@@ -1,0 +1,26 @@
+{
+  "submission_id": "submission_20251022_214709",
+  "timestamp": "2025-10-22T21:47:09.294026",
+  "files": [
+    "Transmitarrays_for_Wireless_Power_Transfer_on_Earth_and_in_Space.pdf"
+  ],
+  "results": [
+    {
+      "filename": "Transmitarrays_for_Wireless_Power_Transfer_on_Earth_and_in_Space.pdf",
+      "format": "IEEE Format",
+      "confidence": "90%",
+      "ai_score": "25.62%",
+      "human_score": "74.38%",
+      "ai_confidence": "High"
+    }
+  ],
+  "similarity": [],
+  "ai_analysis": {
+    "Transmitarrays_for_Wireless_Power_Transfer_on_Earth_and_in_Space.pdf": {
+      "ai_score": 25.62,
+      "human_score": 74.38,
+      "confidence": "High",
+      "method": "Heuristic + Pattern Analysis"
+    }
+  }
+}

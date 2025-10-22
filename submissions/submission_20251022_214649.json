@@ -1,0 +1,26 @@
+{
+  "submission_id": "submission_20251022_214649",
+  "timestamp": "2025-10-22T21:46:49.488471",
+  "files": [
+    "s41598-025-10674-y.pdf"
+  ],
+  "results": [
+    {
+      "filename": "s41598-025-10674-y.pdf",
+      "format": "Springer Format",
+      "confidence": "90%",
+      "ai_score": "60.93%",
+      "human_score": "39.07%",
+      "ai_confidence": "Medium"
+    }
+  ],
+  "similarity": [],
+  "ai_analysis": {
+    "s41598-025-10674-y.pdf": {
+      "ai_score": 60.93,
+      "human_score": 39.07,
+      "confidence": "Medium",
+      "method": "Heuristic + Pattern Analysis"
+    }
+  }
+}

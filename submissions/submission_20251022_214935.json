@@ -1,0 +1,26 @@
+{
+  "submission_id": "submission_20251022_214935",
+  "timestamp": "2025-10-22T21:49:35.870017",
+  "files": [
+    "modelo-de-artigo-para-physicae-organum.pdf"
+  ],
+  "results": [
+    {
+      "filename": "modelo-de-artigo-para-physicae-organum.pdf",
+      "format": "Physicae Organum Format",
+      "confidence": "85%",
+      "ai_score": "10.0%",
+      "human_score": "90.0%",
+      "ai_confidence": "High"
+    }
+  ],
+  "similarity": [],
+  "ai_analysis": {
+    "modelo-de-artigo-para-physicae-organum.pdf": {
+      "ai_score": 10.0,
+      "human_score": 90.0,
+      "confidence": "High",
+      "method": "Heuristic + Pattern Analysis"
+    }
+  }
+}
